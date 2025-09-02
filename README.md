@@ -99,6 +99,6 @@ HIBP_UA=EmailOSINTBot/0.1 (+https://github.com/your/repo)
 ```
 Run the Bot
 ```bash
-python bot_free.py
+python main.py
 ```
 
